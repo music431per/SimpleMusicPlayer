@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- text size -->
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="artist_text_size">16sp</dimen>
+
+    <!-- view size -->
+    <dimen name="playback_button_size">48dp</dimen>
+
+    <!-- margin -->
+    <dimen name="playback_button_margin">32dp</dimen>
+
+    <!-- list -->
+    <dimen name="list_margin">8dp</dimen>
+    <dimen name="list_item_padding">8dp</dimen>
+</resources>

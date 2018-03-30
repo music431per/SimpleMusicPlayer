@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleMusicPlayer</string>
+    <string name="music_time">0:00</string>
+</resources>
